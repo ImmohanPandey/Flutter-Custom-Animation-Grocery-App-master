@@ -1,7 +1,5 @@
 # Flutter Animation - Grocery App UI
 
-## [Watch it on YouTube](https://youtu.be/vCQQJ42zC58)
-
 **Packages we are using:**
 
 - flutter_svg: [link](https://pub.dev/packages/flutter_svg)
